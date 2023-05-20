@@ -1,32 +1,70 @@
-# [💻 A tela de login mais bonita do mundo com Tailwind CSS](https://codante.io/mini-projetos/mp-tela-login-tailwind)
+# Getting Started with Create React App
 
-Você foi contratado por uma empresa de desenvolvimento de software para criar a tela de login mais bonita do mundo usando o framework Tailwind CSS. A empresa deseja proporcionar uma experiência visualmente agradável aos usuários ao fazerem login em seus sistemas.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🔨 Requisitos
-- Crie uma tela de login responsiva, que se adapte a diferentes tamanhos de tela.
-- Utilize o framework Tailwind CSS para estilizar os elementos da tela de login.
-- A tela de login deve conter os seguintes elementos:
-  - Campo de entrada para o nome de usuário.
-  - Campo de entrada para a senha.
-  - Botão "Entrar" para fazer o login.
-- Implemente a validação dos campos de entrada. Caso algum campo esteja vazio, exiba uma mensagem de erro.
-- Após o usuário fazer o login com sucesso, redirecione-o para uma página de boas-vindas.
-- Capriche no design! Use sua criatividade para criar uma interface atraente e amigável, aproveitando os recursos oferecidos pelo Tailwind CSS.
+## Available Scripts
 
-## 🔍 Dicas
-- Considere adicionar transições e animações suaves para tornar a experiência do usuário mais agradável.
-- Teste seu design em diferentes dispositivos e navegadores para garantir que ele seja responsivo e funcional em todos eles.
+In the project directory, you can run:
 
-## 🎨 Design sugerido
-🔗 [Acesse o link do Figma](https://www.figma.com/file/suvmja6210ggZOO6Cpehjl/Mini-Projeto---A-tela-de-login-mais-bonita-do-mundo?type=design&node-id=0%3A1&t=pnT8xEiypSKTO4Z7-1)
+### `npm start`
 
-![image](https://github.com/codante-io/mp-tela-login-tailwind/assets/6475893/914bc33a-ed2a-4720-bf3a-f2c2d9eb41a8)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## 📝 Mockups
-![Screenshot_2023-05-06_134731-removebg-preview](https://user-images.githubusercontent.com/6475893/236636789-b03715d5-7010-4e46-af97-b4a901d0fe63.png)
+### `npm test`
 
-## 💡 Inspiração
-- https://dribbble.com/shots/5792716-Login-page
-- https://dribbble.com/shots/3546598-Sign-In
-- https://www.youtube.com/watch?v=t-EMinSz_Tk
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
